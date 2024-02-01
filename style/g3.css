@@ -4,3 +4,49 @@
 *{
     font-family: 'Work Sans', sans-serif;
 }
+
+
+/* header section style */
+
+header{
+    background-color: rgba(255, 144, 14, 0.10);
+    padding: 50px 200px;
+}
+
+
+/* nav style */
+
+
+
+.nav-title{
+color: #131313;
+font-weight: 700px;
+font-size: 2.8rem;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav > ul{
+    display: flex;
+}
+li{
+    margin-right: 30px;
+    text-decoration: none;
+    list-style: none;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #222222;
+}
+
+
+/* main section style */
+
+
+
+
+
+
+/* footer section style */
